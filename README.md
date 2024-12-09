@@ -38,7 +38,7 @@ I am an accomplished Web development holding a Bachelor's degree in Computer Sys
 ---
 
 ## 🌍 Achievements  
-🎓 Bachelor's Degree in Web development and design** – Specialized in Backend Web Development and Integrations API.  .  
+🎓 **Bachelor's Degree in Web development and design** – Specialized in Backend Web Development and Integrations API.
 👨‍💼 Led development teams to successfully deliver complex projects by implementing Agile practices and efficiently managing tasks across multiple platforms.
 🔗 Created and integrated secure APIs for clients with others third party same as
 (OpenAI, SMSA Express, aymakan, jawalsms, google services, tamara.co, payfort, stripe, paytabs, tequila.kiwi, Zoom Integrations, agora.io Integrations, firebase). 
@@ -55,7 +55,7 @@ I am an accomplished Web development holding a Bachelor's degree in Computer Sys
 - 🔗 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdelkareem-mushtaha-98b45b175/)   
 ---
 
-## 📚 Endless Learning & Innovation  
+## 🫵 Endless Learning & Innovation  
 I’m passionate about staying on the cutting edge of technology and continuously expanding my knowledge. Whether it’s earning new certifications, attending dynamic conferences, or engaging with a global community of developers, I’m always striving to push the boundaries of what's possible.  
 
 Explore my repositories and feel free to reach out—I’m always excited to collaborate or dive into the latest tech trends with fellow enthusiasts!

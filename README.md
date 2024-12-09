@@ -37,7 +37,7 @@ I am an accomplished Web development holding a Bachelor's degree in Computer Sys
 
 ---
 
-## 🌍 Achievements  
+## 🏆 Achievements  
 - 🎓 **Bachelor's Degree in Web development and design** – Specialized in Backend Web Development and Integrations API.
 - 👨‍💼 Led development teams to successfully deliver complex projects by implementing Agile practices and efficiently managing tasks across multiple platforms.
 - 🔗 Created and integrated secure APIs for clients with others third party same as
@@ -45,15 +45,16 @@ I am an accomplished Web development holding a Bachelor's degree in Computer Sys
 
 ---
  
-## 📈 GitHub Statistics  
+## 📊 GitHub Statistics  
 ![Mohanad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareemmushtaha&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareemmushtaha&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect with Me  
-- 📧 [Email](mailto:kareemasemm@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdelkareem-mushtaha-98b45b175/)   
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdelkareem-mushtaha-98b45b175/)
+- 📧 [Email](mailto:kareemasemm@gmail.com)
+- 🟢 [WhatsApp](https://wa.me/972592782897)
 ---
 
 ## 🫵 Endless Learning & Innovation  

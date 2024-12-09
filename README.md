@@ -1,25 +1,61 @@
-<h1 align="center">Hi 👋, I'm Abdelkareem Mushtaha</h1>
-<h3 align="center">Senior Web Developer | API Integration third party| AI Integrations</h3>
+# Welcome! 👋  
+I'm Kareem Mushtaha  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kareemmushtaha&label=Profile%20views&color=0e75b6&style=flat" alt="kareemmushtaha" /> </p>
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=kareemmushtaha)
 
-- 🔭 I’m currently working on [Hakeem App](https://hakeem.com.sa/)
+🎓 **Senior Web Developer | API Integration third party| AI Integrations**  
 
-- 🌱 I’m currently learning **All that is new in the world of the web**
+I am an accomplished Web development holding a Bachelor's degree in Computer Systems with over fife years of professional experience. My skill set spans both back-end and front-end development, with advanced expertise in PHP, Laravel, DB, and RESTful APIs. I specialize in integrating complex systems in feiled (AI) and other fields.  
 
-- 📫 How to reach me **kareemas**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kareem mushtaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kareem mushtaha" height="30" width="40" /></a>
-<a href="https://twitter.com/mushtahaabd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mushtahaabd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdelkareem mushtaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelkareem mushtaha" height="30" width="40" /></a>
-<a href="https://fb.com/abdelkareem mushtaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelkareem mushtaha" height="30" width="40" /></a>
-<a href="https://instagram.com/abdelkareem mushtaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelkareem mushtaha" height="30" width="40" /></a>
-</p>
+## 🎯 Key Areas of Expertise
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 🧑‍💻 **Back-End Development**: PHP 🐘, Laravel, MySQL
+- 🎨 **Front-End Development**: Bootstrap, Vue.js, Inertia js, SPA
+- ⚙️ **Version Control Systems**: Git, Bitbucket, GitHub  
+- ☁️ **Server Settings Tools**: Docker, linux servers, FTB Servers
+- 🔗 **API Integration**: RESTful APIs , Postman , Insomnia , Authentication & Authorization & Payment Gateway
+- 📊 **Project Management**: Jira, Trello ,Agile methodologies  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemmushtaha&show_icons=true&locale=en&layout=compact" alt="kareemmushtaha" /></p>
+---
+
+## 📌 Technical Expertise
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Inertia.js](https://img.shields.io/badge/Inertia.js-1F2937?style=for-the-badge&logo=inertia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFD200?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌍 Achievements  
+🎓 Bachelor's Degree in Web development and design** – Specialized in Backend Web Development and Integrations API.  .  
+👨‍💼 Led development teams to successfully deliver complex projects by implementing Agile practices and efficiently managing tasks across multiple platforms.
+🔗 Created and integrated secure APIs for clients with others third party same as
+(OpenAI, SMSA Express, aymakan, jawalsms, google services, tamara.co, payfort, stripe, paytabs, tequila.kiwi, Zoom Integrations, agora.io Integrations, firebase). 
+---
  
+## 📈 GitHub Statistics  
+![Mohanad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareemmushtaha&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareemmushtaha&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+- 📧 [Email](mailto:kareemasemm@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdelkareem-mushtaha-98b45b175/)   
+---
+
+## 📚 Endless Learning & Innovation  
+I’m passionate about staying on the cutting edge of technology and continuously expanding my knowledge. Whether it’s earning new certifications, attending dynamic conferences, or engaging with a global community of developers, I’m always striving to push the boundaries of what's possible.  
+
+Explore my repositories and feel free to reach out—I’m always excited to collaborate or dive into the latest tech trends with fellow enthusiasts!

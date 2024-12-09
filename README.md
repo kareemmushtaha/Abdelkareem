@@ -3,7 +3,7 @@ I'm AbdelKareem Mushtaha
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareemmushtaha&label=Profile%20views&color=0e75b6&style=flat" alt="kareemmushtaha" /> </p>
 
-🎓 **Senior Web Developer | API Integration third party| AI Integrations**  
+🎓 **Senior Web Developer | API Integration Third Party| AI Integrations**  
 
 I am an accomplished Web development holding a Bachelor's degree in Computer Systems with over fife years of professional experience. My skill set spans both back-end and front-end development, with advanced expertise in PHP, Laravel, DB, and RESTful APIs. I specialize in integrating complex systems in feiled (AI) and other fields.  
 

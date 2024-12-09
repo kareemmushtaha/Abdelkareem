@@ -1,7 +1,7 @@
 # Welcome! 👋  
 I'm AbdelKareem Mushtaha  
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=kareemmushtaha)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kareemmushtaha&label=Profile%20views&color=0e75b6&style=flat" alt="kareemmushtaha" /> </p>
 
 🎓 **Senior Web Developer | API Integration third party| AI Integrations**  
 

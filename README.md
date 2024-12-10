@@ -17,7 +17,7 @@ I am an accomplished Web development holding a Bachelor's degree in Computer Sys
 - ☁️ **Server Settings Tools**: Docker, linux servers, FTB Servers
 - 🔗 **API Integration**: RESTful APIs , Postman , Insomnia , Authentication & Authorization & Payment Gateway
 - 📊 **Project Management**: Jira, Trello ,Agile methodologies  
-<img src="https://giphy.com/stickers/cloud-data-center-hostdime-TrcWCgqGu6lL4NywBj" alt="Laravel GIF" width="200" />  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs4cmV1anR1Z2t3anU0dmkzM2h4Y3A1a2d2c2p3eHhmZWYwbzhpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TrcWCgqGu6lL4NywBj/giphy.webp" alt="Laravel GIF" width="200" />  
 
 ---
 

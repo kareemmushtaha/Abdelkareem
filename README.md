@@ -21,7 +21,8 @@ I am an accomplished Web development holding a Bachelor's degree in Computer Sys
 ---
 
 ## 📌 Technical Expertise
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs4cmV1anR1Z2t3anU0dmkzM2h4Y3A1a2d2c2p3eHhmZWYwbzhpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TrcWCgqGu6lL4NywBj/giphy.webp" alt="Laravel GIF"/>  
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -35,7 +36,6 @@ I am an accomplished Web development holding a Bachelor's degree in Computer Sys
 ![Linux](https://img.shields.io/badge/Linux-FFD200?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs4cmV1anR1Z2t3anU0dmkzM2h4Y3A1a2d2c2p3eHhmZWYwbzhpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TrcWCgqGu6lL4NywBj/giphy.webp" alt="Laravel GIF" width="200" />  
 
 ---
 

@@ -44,7 +44,7 @@ I am an accomplished Web development holding a Bachelor's degree in Web Design &
 - 🎓 **Bachelor's Degree in Web development and design** – Specialized in Backend Web Development and Integrations API.
 - 👨‍💼 Led development teams to successfully deliver complex projects by implementing Agile practices and efficiently managing tasks across multiple platforms.
 - 🔗 Created and integrated secure APIs for clients with others third party same as
-(OpenAI, SMSA Express, Aymakan, Jawalsms, Google Services, Tamara.co, Payfort, Stripe, Paytabs, Tequila.kiwi, Zoom, Agora.io, Firebase, Coursera, AWS). 
+(OpenAI, SMSA Express, Aymakan, Jawalsms, Google Services, Tamara.co, Payfort, Stripe, Paytabs, Tequila.kiwi, Zoom, Agora.io, Firebase, Pusher, Coursera, AWS). 
 
 ---
  

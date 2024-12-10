@@ -13,12 +13,12 @@ I am an accomplished Web development holding a Bachelor's degree in Web Design &
 
 ## 🎯 Key Areas of Expertise
 
-- 🧑‍💻 **Back-End Development**: PHP 🐘, Laravel, MySQL
-- 🎨 **Front-End Development**: Bootstrap, Vue.js, Inertia js, SPA
-- ⚙️ **Version Control Systems**: Git, Bitbucket, GitHub  
-- ☁️ **Server Settings Tools**: Docker, linux servers, FTB Servers, AWS, Digitalocean
-- 🔗 **API Integration**: RESTful APIs , Postman , Insomnia , Authentication & Authorization & Payment Gateway
-- 📊 **Project Management**: Jira, Trello ,Agile methodologies  
+- 🧑‍💻 **Back-End Development**: PHP 🐘 , Laravel , MySQL
+- 🎨 **Front-End Development**: Bootstrap , Vue.js , Inertia js , SPA
+- ⚙️ **Version Control Systems**: Git , Bitbucket, GitHub  
+- ☁️ **Server Settings Tools**: Docker , linux servers , FTB Servers , AWS , Digitalocean
+- 🔗 **API Integration**: RESTful APIs , Postman, Insomnia, Authentication & Authorization & Payment Gateway
+- 📊 **Project Management**: Jira , ClickUp , Trello, Agile methodologies  
 
 ---
 

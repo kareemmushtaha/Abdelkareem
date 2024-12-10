@@ -5,7 +5,7 @@ I'm AbdelKareem Mushtaha
 
 🎓 **Senior Web Developer | API Integration Third Party | AI Integrations**  
 
-I am an accomplished Web development holding a Bachelor's degree in Computer Systems with over fife years of professional experience. My skill set spans both back-end and front-end development, with advanced expertise in PHP, Laravel, DB, and RESTful APIs. I specialize in integrating complex systems in feiled (AI) and other fields.  
+I am an accomplished Web development holding a Bachelor's degree in Web Design & Development with over fife years of professional experience. My skill set spans both back-end and front-end development, with advanced expertise in PHP, Laravel, DB, and RESTful APIs. I specialize in integrating complex systems in feiled (AI) and other fields.  
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs4cmV1anR1Z2t3anU0dmkzM2h4Y3A1a2d2c2p3eHhmZWYwbzhpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TrcWCgqGu6lL4NywBj/giphy.webp" width="110" alt="Laravel GIF"/>  
 
